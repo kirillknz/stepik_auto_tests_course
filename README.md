@@ -47,9 +47,9 @@
 ```sh
    python -m pip install selenium  
 ```
-###Это вовсе не конец. Файл будет пополняться 
+### _Это вовсе не конец. Файл будет пополняться_ 
 ![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=28&leftFill=%23FF0000 "progress")
-##Good luck
+## _Good luck_
 
 
 
