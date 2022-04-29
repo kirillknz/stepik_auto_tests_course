@@ -36,7 +36,7 @@
 
 ## Installation Selenium (Windows)
 
-Загрузить [Python](https://www.python.org/downloads/) для Windows/
+Загрузить [Python](https://www.python.org/downloads/) для Windows
 
 Затем установить Selenium WebDriver с помощью Pip:
 ```sh
@@ -49,7 +49,11 @@
 ```
 ### _Это вовсе не конец. Файл будет пополняться_ 
 ![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=28&leftFill=%23FF0000 "progress")
-## _Good luck_
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=30&color=000000&lines=Good+luck)](https://git.io/typing-svg)
+
 
 
 
