@@ -9,6 +9,7 @@
 ```
 - languages - en, ru, fr & etc
 - browser_name - chrome, firefox
+- для увеличения времени ожидания в файле _test_items.py_ следует убрать _'#'_ у time.sleep(30) 
 
 ## Шаги в сценарии 
 
