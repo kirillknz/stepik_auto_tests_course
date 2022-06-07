@@ -7,6 +7,8 @@
 ```sh
    pytest --language=es --browser_name=chrome test_items.py
 ```
+- languages - en, ru, fr & etc
+- browser_name - chrome, firefox
 
 ## Шаги в сценарии 
 
