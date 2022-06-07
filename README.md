@@ -1,5 +1,23 @@
 # Readme
-## _Автоматизация тестирования с помощью Selenium и Python_
+## Для рецензии задания "запуск автотестов для разных языков интерфейса"
+
+### Умышленно оставлен Firefox для запуска
+
+Комананда для запуска:
+```sh
+   pytest --language=es --browser_name=chrome test_items.py
+```
+
+## Шаги в сценарии 
+
+- Открытие страницы на языке из параметров
+- Проверка кнопки корзины
+- Закрытие браузера
+
+
+
+
+# _Автоматизация тестирования с помощью Selenium и Python_
 
 ![N|Solid](https://selenium-python.com/wp-content/uploads/2017/11/cropped-logo-mini.png)
 
@@ -25,13 +43,6 @@
 | CSS Diner        | [flukeout.github.io][PlGd]                |
 | CSS Selector     | [www.w3schools.com][PlOd]                 |
 
-## Шаги в сценарии 
-
-- Открытие страницы
-- Ожидание price == $100, клик на "Book"
-- Чтение значения "х", математический расчет, подстановка значения в поле
-- Клик на "Submit"
-- Закрытие браузера
 
 
 ## Installation Selenium (Windows)
